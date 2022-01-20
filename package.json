@@ -10,7 +10,9 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.22.0",
+    "framer-motion": "^6.0.0",
     "history": "5",
+    "motion": "^10.5.2",
     "react": "^17.0.2",
     "react-cookie": "^4.1.1",
     "react-dom": "^17.0.2",
@@ -39,6 +41,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9",
+    "ciql-deploy": "^1.0.10",
     "postcss": "^7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   }

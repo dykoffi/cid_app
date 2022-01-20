@@ -1,5 +1,5 @@
 import React from "react"
-import Fond from "../../assets/images/fond.jpg"
+import Fond from "../../assets/images/fondflou.png"
 
 const Head = () => {
 

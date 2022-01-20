@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="flex flex-wrap">
                     <div className="w-full lg:w-3/5 flex flex-wrap">
                         <div className="w-1/2 lg:w-1/4 mb-8">
-                            <h3 className="mb-4 text-lg font-bold font-heading">Notre organisation</h3>
+                            <h3 className="mb-4 text-lg font-bold font-heading">Organisation</h3>
                             <ul className="text-sm">
                                 <li className="mb-2">
                                     <a className="text-gray-500 hover:text-gray-700" href="#">
@@ -92,10 +92,10 @@ const Footer = () => {
                         <input
                             className="w-full lg:w-2/3 mb-4 pl-4 py-3 mr-4 border rounded"
                             type="email"
-                            placeholder="Type your e-mail"
+                            placeholder="Entrez votre adresse email"
                         />
                         <button className="inline-block px-5 py-3 text-sm bg-gray-500 hover:bg-gray-600 text-white font-semibold border border-gray-500 hover:border-gray-600 rounded transition duration-200">
-                            Action
+                            Envoyer
                         </button>
                     </div>
                 </div>

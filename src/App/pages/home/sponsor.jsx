@@ -17,10 +17,10 @@ const Sponsor = () => {
               Nos partenaires
             </span>
             <h2 className="mt-2 mb-4 text-3xl leading-tight md:text-4xl md:leading-tight lg:text-5xl lg:leading-tight font-bold font-heading">
-              Ils nous accompagne
+              Ils nous accompagnent
             </h2>
             <p className="mb-8 text-base leading-relaxed lg:text-xl lg:leading-relaxed text-gray-500">
-              La CID est en partenariat avec des structures publiques et privées afin de les aider dans l'accomplissment de leurs projets fou
+              La CID est en partenariat avec des structures publiques et privées afin de les aider dans l'accomplissment de leurs projets fous.
             </p>
           </div>
           <div className="flex flex-wrap -m-4">
