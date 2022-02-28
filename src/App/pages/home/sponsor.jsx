@@ -27,7 +27,7 @@ const Sponsor = () => {
             <div className="w-1/2 md:w-1/3 lg:w-1/6 p-4">
               <div className="py-12">
                 <img
-                  className="h-14 mx-auto"
+                  className="h-20 mx-auto"
                   src={Artci}
                   alt="Logo de l'artci"
                 />
@@ -36,7 +36,7 @@ const Sponsor = () => {
             <div className="w-1/2 md:w-1/3 lg:w-1/6 p-4">
               <div className="py-12">
                 <img
-                  className="h-14 mx-auto"
+                  className="h-20 mx-auto"
                   src={Ansut}
                   alt="Logo de l'ANSUT"
                 />
@@ -45,7 +45,7 @@ const Sponsor = () => {
             <div className="w-1/2 md:w-1/3 lg:w-1/6 p-4">
               <div className="py-12">
                 <img
-                  className="h-14 mx-auto"
+                  className="h-20 mx-auto"
                   src={Fjn}
                   alt="Logo de FJN"
                 />
@@ -54,7 +54,7 @@ const Sponsor = () => {
             <div className="w-1/2 md:w-1/3 lg:w-1/6 p-4">
               <div className="py-12">
                 <img
-                  className="h-14 mx-auto"
+                  className="h-20 mx-auto"
                   src={Moov}
                   alt="Logo de Moov africa"
                 />
@@ -63,7 +63,7 @@ const Sponsor = () => {
             <div className="w-1/2 md:w-1/3 lg:w-1/6 p-4">
               <div className="py-12">
                 <img
-                  className="h-14 mx-auto"
+                  className="h-20 mx-auto"
                   src={Mtn}
                   alt="Logo de MTN CI"
                 />
@@ -72,7 +72,7 @@ const Sponsor = () => {
             <div className="w-1/2 md:w-1/3 lg:w-1/6 p-4">
               <div className="py-12">
                 <img
-                  className="h-14 mx-auto"
+                  className="h-20 mx-auto"
                   src={Orange}
                   alt="Logo de Orange CI"
                 />

@@ -106,19 +106,19 @@ const Footer = () => {
                     <div className="w-full lg:w-1/2 mb-6 lg:mb-0">
                         <a className="text-gray-600 text-2xl leading-none" href="#">
                             <img
-                                className="h-8"
+                                className="h-12"
                                 src={Logo}
                                 alt
                                 width="auto"
                             />
                         </a>
                         <p className="hidden lg:block mt-3 text-sm text-gray-500">
-                            Tous droits réservés. © Cellule d'Innovation et de Développement.
+                            Tous droits réservés. © Cellule d'Innovation et de Développement. <b>Powered by CIQL Microservices.</b> 
                         </p>
                     </div>
                     
                     <p className="lg:hidden text-sm text-gray-500">
-                        Tous droits réservés. © Cellule d'Innovation et de Développement.
+                        Tous droits réservés © Cellule d'Innovation et de Développement. <b>Powered by CIQL Microservices.</b> 
                     </p>
                 </div>
             </div>

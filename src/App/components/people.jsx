@@ -3,11 +3,9 @@ import { motion } from "framer-motion"
 
 const People = ({ nom, image, poste, shadow }) => {
 
-
-
     return (
         <motion.div
-            whileHover={{ scale: 0.8 }}
+            whileHover={{ scale: 0.8, transform: "grayscale(15%)" }}
             whileTap={{ scale: 0.9 }}
             className={`w-full md:w-1/2 lg:w-1/4 ${shadow && "shadow-lg"}`}>
             <div className="bg-gray-50 rounded-lg text-center">
